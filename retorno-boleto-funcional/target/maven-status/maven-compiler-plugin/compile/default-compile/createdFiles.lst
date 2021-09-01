@@ -1,0 +1,6 @@
+Main.class
+com\david\retorno\boleto\ProcessarBoletos.class
+com\david\retorno\boleto\LeituraRetorno.class
+com\david\retorno\boleto\LeituraRetornoBancoBrasil.class
+com\david\retorno\boleto\Boleto.class
+com\david\retorno\boleto\LeituraRetornoBradesco.class
